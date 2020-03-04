@@ -1,6 +1,6 @@
 galaxy_info:
   role_name: borg
-  author: OliDrouin
+  author: olidrouin
   description: Ansible role do install and setup regular backups with borg
   license: Apache
 
